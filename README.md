@@ -53,6 +53,7 @@ This project is a Colab-powered framework for analyzing gravitational wave data 
 ## 💡 Class Hierarchy
 
 > Click the diagram to open full-size version.
+<img width="676" alt="ANALYZER DEPENDENCIES" src="https://github.com/user-attachments/assets/a6333ecc-35ec-4517-845e-a2405a67b78e" />
 
 ![Class Hierarchy](./A_flowchart-style_diagram_showcases_class_hierarch.png)
 
@@ -60,7 +61,7 @@ This project is a Colab-powered framework for analyzing gravitational wave data 
 
 ## ⚡ How to Run
 
-Open in Google Colab: [Run Notebook](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK)
+Open in Google Colab: [Run Notebook]([https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK](https://colab.research.google.com/drive/1RRdQftOy_VRbbJBSnXGsLLZ0Daq_NctI?usp=sharing))
 
 You will need:
 - A Google account
