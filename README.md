@@ -50,12 +50,11 @@ This project is a Colab-powered framework for analyzing gravitational wave data 
 
 ---
 
-## 💡 Class Hierarchy
+## 🪢  Class Hierarchy
 
 > Click the diagram to open full-size version.
 <img width="676" alt="ANALYZER DEPENDENCIES" src="https://github.com/user-attachments/assets/a6333ecc-35ec-4517-845e-a2405a67b78e" />
 
-![Class Hierarchy](./A_flowchart-style_diagram_showcases_class_hierarch.png)
 
 ---
 
@@ -83,9 +82,7 @@ qmem = QuantumMemoryAnalyzer(filtered)
 coh_stats = qmem.analyze_quantum_coherence()
 ```
 
-## 🪢  Guide to Analyzer Dependencies
 
-<img width="676" alt="ANALYZER DEPENDENCIES" src="https://github.com/user-attachments/assets/2e88e2ba-cdef-4f32-8ff9-580e1987a42b" />
 
 
 ---
