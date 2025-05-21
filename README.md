@@ -64,8 +64,6 @@ Open in Google Colab: [Run Notebook]([https://colab.research.google.com/drive/YO
 
 You will need:
 - A Google account
-- A face image (if testing visualizations)
-- Optional: event metadata from LIGO Open Science
 
 ---
 
